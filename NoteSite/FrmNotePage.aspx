@@ -21,14 +21,8 @@
     </br>
     <form id ="form1" runat ="server">
         <div>
-            Note:
-            <asp:TextBox ID = "strNote" runat ="server"></asp:TextBox>
-
-            <asp:Button Id = "btnSubmit" runat ="server" Text = "Submit" OnClick ="btnSubmit_Click"/>
+            <asp:Button ID="btnStart" runat="server" Text="Start to take Note" OnClick="btnStart_Click" width="200" height="100" />
         </div>
-
-
-        
 
 
         <footer class="border-top footer text-muted">

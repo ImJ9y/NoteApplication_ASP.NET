@@ -47,7 +47,7 @@
       <ul>
         <li class="left-align">Ability to add and attach photos with notes.</li>
           <li class="left-align">Voice notes</li>
-          <li class="left-align">Search bat to find and download notes easily</li>
+          <li class="left-align">Search bar to find and download notes easily</li>
           <li class="left-align">Reminders</li>
       </ul>
     </p>
